@@ -1,0 +1,43 @@
+HEADER {
+  width: 100%;
+  height: 120px;
+  min-width: 150px;
+
+  padding: 2.5% 20%;
+
+  box-sizing: border-box;
+}
+
+.header_in {
+  height: 100%;
+  padding: 2%;
+
+  box-sizing: border-box;
+
+  border-radius: 5px;
+
+  box-shadow: 0 1px 100px LightGreen;
+  background-color: LightGoldenRodYellow;
+}
+
+.birds {
+  width: 75px;
+  height: 45px;
+  float: left;
+}
+
+.header_in A {
+  display: block;
+  vertical-align: middle;
+
+  font-size: 110%;
+  font-family: 'Marck Script', cursive;
+}
+
+.header_a {
+  line-height: 105%;
+}
+
+.header_a A:hover {
+  text-decoration: none;
+}

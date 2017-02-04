@@ -1,0 +1,40 @@
+.main_bottom {
+  height: 80px;
+  min-width: 400px;
+
+  padding: 2.5%;
+  padding-top: 0;
+
+  box-sizing: border-box;
+
+  box-shadow: 0 0 10px Aqua;
+  background-color: Aqua;
+}
+
+.main_bottom_in {
+  height: 100%;
+  padding: 1%;
+
+  box-sizing: border-box;
+
+  box-shadow: 0 0 10px LightGreen;
+  background-color: LightGreen;
+
+  text-align: center;
+  font-size: 150%;
+  font-family: 'Marck Script', cursive;
+}
+
+/* ADD.INDEX */
+
+.main_top_in_form {
+    text-align: center;
+}
+
+.main_top_in_form INPUT {
+  background-color: #d8f1d8;
+}
+
+.main_bottom_add {
+  height: 150px;
+}
